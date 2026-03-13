@@ -8,6 +8,6 @@ namespace Mission_6_Assignment.Models
         {
 
         }
-        public DbSet<Movie> MovieCatalog { get; set; }
+        public DbSet<Movie> Movies { get; set; }
     }
 }
